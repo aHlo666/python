@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 # coding:utf-8
 
+'''
+天门帝国7小说爬取
+'''
+
 import requests
 import re
 for i in range(1587,9999):
